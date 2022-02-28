@@ -1,6 +1,5 @@
 # st-selectbox
-
-Read about [`st.selectbox`](https://docs.streamlit.io/library/api-reference/widgets/st.selectbox) in the Streamlit API Documentation.
+`st.selectbox` display a select widget. 
 
 ## Demo app
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st-selectbox/)
@@ -16,3 +15,6 @@ option = st.selectbox(
 
 st.write('You selected:', option)
 ```
+
+## References
+Read about [`st.selectbox`](https://docs.streamlit.io/library/api-reference/widgets/st.selectbox) in the Streamlit API Documentation.
