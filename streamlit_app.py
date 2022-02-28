@@ -1,7 +1,7 @@
 import streamlit as st
 
 option = st.selectbox(
-     'How would you like to be contacted?',
-     ('Email', 'Home phone', 'Mobile phone'))
+     'What is your favorite color?',
+     ('Blue', 'Red', 'Green'))
 
-st.write('You selected:', option)
+st.write('Your favorite color is ', option)
