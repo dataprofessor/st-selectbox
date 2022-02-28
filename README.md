@@ -4,6 +4,8 @@ Read about [`st.selectbox`](https://docs.streamlit.io/library/api-reference/widg
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st-selectbox/)
 
+
+Contents of the `streamlit_app.py` file:
 ```python
 import streamlit as st
 
