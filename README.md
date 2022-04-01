@@ -1,8 +1,8 @@
-# st-selectbox
+# st.selectbox
 `st.selectbox` display a select widget. 
 
 ## Demo app
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st-selectbox/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st.selectbox/)
 
 ## Code
 Contents of the `streamlit_app.py` file:
