@@ -10,6 +10,11 @@ Flow of the app:
 1. User selects a color
 2. App prints out the selected color
 
+## Demo app
+The deployed Streamlit app should look something like the one shown in the below link: 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st.selectbox/)
+
 ## Code
 Here's the code to implement the above mentioned app:
 ```python
@@ -50,11 +55,6 @@ Finally, we'll print out the selected color as follows:
 ```python
 st.write('Your favorite color is ', option)
 ```
-
-## Demo app
-The deployed Streamlit app should look something like the one shown in the below link: 
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st.selectbox/)
 
 ## Next steps
 Now that you have created the Streamlit app locally, it's time to deploy it to [Streamlit Cloud](https://streamlit.io/cloud).
