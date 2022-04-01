@@ -9,6 +9,8 @@ Contents of the `streamlit_app.py` file:
 ```python
 import streamlit as st
 
+st.header('st.selectbox')
+
 option = st.selectbox(
      'What is your favorite color?',
      ('Blue', 'Red', 'Green'))
